@@ -1,0 +1,4 @@
+Host_server: localhostHasil INSERT dengan MongoDB: 0.17232871055603027 detik
+Hasil READ dengan MongoDB: 0.0 detik
+Hasil UPDATE dengan MongoDB: 0.04107856750488281 detik
+Hasil DELETE dengan MongoDB: 0.03406381607055664 detik
